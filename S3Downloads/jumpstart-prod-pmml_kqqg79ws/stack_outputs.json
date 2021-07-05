@@ -1,0 +1,10 @@
+{
+  "CloudformationStackARN": "arn:aws:cloudformation:ap-southeast-1:609826415497:stack/SC-609826415497-pp-ypfl33kwzo5nw/3267eb10-dd77-11eb-b50a-02ab63576a78",
+  "SolutionS3Bucket": "sagemaker-soln-pdm-js-kqqg79ws-609826415497-ap-southeast-1",
+  "SolutionUpstreamS3Bucket": "sagemaker-solutions-prod-ap-southeast-1",
+  "SolutionS3Prefix": "pred-maintenance-artifacts",
+  "SolutionPrefix": "sagemaker-soln-pdm-js-kqqg79ws",
+  "SolutionName": "Predictive-maintenance-using-machine-learning",
+  "IamRole": "arn:aws:iam::609826415497:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole",
+  "SageMakerModelName": "sagemaker-soln-pred-maint-model"
+}
